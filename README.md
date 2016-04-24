@@ -6,3 +6,5 @@ So, this is my first attempt of facing my fear.. starting to use Github
 This has been quite the pleasant experience so far! And I hope it continues
 
 My new line
+
+My other cool feature #2
